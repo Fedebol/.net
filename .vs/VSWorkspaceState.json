@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Models"
   ],
-  "SelectedNode": "\\Microsisturn.csproj",
+  "SelectedNode": "\\Models\\Especialidad.cs",
   "PreviewInSolutionExplorer": false
 }
